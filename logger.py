@@ -29,7 +29,7 @@ reprocess_handler.setFormatter(formatter)
 reprocess_logger.addHandler(reprocess_handler)
 
 process_exceptions_logger = logging.getLogger('ProcessExceptions')
-process_exceptions_logger.setLevel(logging.ERROR)
+process_exceptions_logger.setLevel(logging.INFO)
 process_exceptions_handler = logging.FileHandler('logs/process_exceptions.log')
 process_exceptions_handler.setFormatter(formatter)
 process_exceptions_logger.addHandler(process_exceptions_handler)

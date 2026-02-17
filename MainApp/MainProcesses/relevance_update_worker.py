@@ -12,7 +12,7 @@ async def wait_until_parse_api():
     relevance_update_logger.info("Waiting for parse time")
 
     now = datetime.datetime.now()
-    target_time = datetime.datetime(now.year, now.month, now.day, 21, 20)
+    target_time = datetime.datetime(now.year, now.month, now.day, 0, 20)
 
     if now > target_time:
         target_time += datetime.timedelta(days=1)
@@ -21,23 +21,19 @@ async def wait_until_parse_api():
     await asyncio.sleep(delta_second)
 
 
-async def main():
-    while True:
-        relevance_update_logger.info("Initializing updating cycle")
+async def main(new_products_list):
+    relevance_update_logger.info("Starting updating cycle")
+    relevance_update_logger.info(len(new_products_list))
 
-        async with aiohttp.ClientSession(timeout=None) as session:
-            async with session.get(DEWU_API_GET_NEW_PRODUCTS) as response:
-                await response.json()
+    await process_spus(new_products_list, number_of_workers=5)
 
-        await wait_until_parse_api()
-        await wait_until_parse_api()
-        await wait_until_parse_api()
+    relevance_update_logger.info("Updating cycle finished")
 
 
-def start_relevance_update_cycle():
+def start_relevance_update_worker_cycle(new_products_list):
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
 
     relevance_update_logger.info("Starting new products update process")
 
-    loop.run_until_complete(main())
+    loop.run_until_complete(main(new_products_list))

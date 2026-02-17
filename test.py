@@ -1,6 +1,9 @@
 import asyncio
-from Processing.process_spu import process_spu
+import json
+import re
 
+from Processing.process_spu import process_spu
+from main import get_spu_id
 
 # skus = [
 #     "32CP77931",                # cap
@@ -30,12 +33,40 @@ from Processing.process_spu import process_spu
 #     "OMBB009F161920891001"      # ow hoodie
 # ]
 
-spus = [1]
+
+with open('test_data.txt', 'r') as file:
+    text = file.read()
+
+# Define the regular expression pattern to match URLs
+pattern = r'https?://\S+'
+
+# Find all URLs in the text using the regular expression pattern
+links = re.findall(pattern, text)
 
 
 async def main():
-    for spu in spus:
-        await process_spu(spu)
+    for i, link in enumerate(links[-1:]):
+        # print(i)
+        #
+        # spu_id = get_spu_id(link)
+
+        # spu_id = 2490245
+        # spu_id = 1050494
+        # spu_id = 3331198
+        # spu_id = 11843281
+        # spu_id = 1619798
+        # spu_id = 2301110
+        # spu_id = 7714807
+        # spu_id = 11843281
+        spu_id = 1372720  # Goyard bag
+
+        result = await process_spu(spu_id)
+
+        # name = result["brands"][0] + " " + result["model"] + " " + result["colorway"]
+        # name = name.replace("/", "")
+        #
+        # with open(f"results/{i} {name}.json", "w", encoding="utf-8") as output:
+        #     output.write(json.dumps(result, indent=4, ensure_ascii=False))
 
 
 loop = asyncio.new_event_loop()

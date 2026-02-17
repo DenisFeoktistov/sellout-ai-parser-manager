@@ -1,659 +1,314 @@
 {
-    "is_collab": true,
-    "collab_names": [
-        "adidas Yeezy"
-    ],
+    "spu_id": 1372720,
+    "is_collab": false,
+    "collab_names": [],
     "brands": [
-        "adidas"
+        "Goyard"
     ],
-    "model": "Yeezy 750",
-    "lines": [
-        [
-            "adidas",
-            "adidas Yeezy",
-            "adidas Yeezy 750"
-        ]
-    ],
-    "date": "19.12.2015",
-    "approximate_date": "19.12.2015",
+    "model": "Сумка через плечо",
+    "lines": [],
+    "date": "01.03.2021",
+    "approximate_date": "Весна 2021",
     "custom": false,
     "categories": [
-        "Высокие кроссовки"
+        "Сумки через плечо"
     ],
     "gender": [
         "M",
         "F"
     ],
-    "manufacturer_sku": "BB1839",
-    "formatted_manufacturer_sku": "bb1839",
-    "poizon_likes_count": 27785,
-    "colorway": "'Triple Black'",
+    "manufacturer_sku": "CAPVE2PMLTY",
+    "formatted_manufacturer_sku": "capve2pmlty",
+    "poizon_likes_count": 18704,
+    "colorway": "Cap-Vert Y 11",
+    "many_sku_api_price": 13199,
+    "images": [
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/e704d26deafa4efb949b6cc67c2cc10d.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/ec9ff77f81e64666ba46ca2ad66e8c57.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/2b9a373f21694fcfbafef5f50e4a1d43.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/36b962da045546aa90b9c0474e023cc0.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/b51633e863b1442087ef5630a642fcad.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/fd74de73ee484af6a5d1bab89f3fd808.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/723245ee44304b71b344cad46f9612f0.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/b5d0babf5d224e7ea713686f855ddd2b.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/8f3baf678fca479e883d5d1a818ff8ce.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/30171a9354f24f4c93a54d86328b4a8f.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/4419814bb65644b28e115fc8a87220a2.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/be3a4f4018364c94b4d9a2f330b6bb8c.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/86e1d70061e343c4b1ccd998afaddcfe.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/4ab4f77d1d0841feb4cd5630eecfb6f0.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/8d13d2e71a884bb18a48cf567d7666b3.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/afa3043685e0493f9c61e7df5c3ea05d.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/173ed663026e442e818325d03d03eae9.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/bf667c2eb7734d9e8e04cc48ec392b2d.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/a1d4a27721ac47dcb5d35e6b99bd08a5.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/bbf0c2700c504be7a6dc9c05d7e9a016.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/e1703f3a82794172a6def8b6144e673e.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/ed86dcbd8aa64ac78d77dc11ec9ed908.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/abb4358682f0438bb0a3ec05d8720d1b.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/56c154219d8e4105acf8a5a363b6aa3d.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/37805bdbb5e845dbb54c182f0c7bad3f.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/704a9d2746184ba5b79eea4677864aad.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/d5487a0ded4c451f86f111a37516f31f.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/50bb95da94cf4a6eace7c1e91871fcbe.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/93b7b974f97245f79999c0eb2c554383.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/1973da33aa2c4c55a595be359baeb80d.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/d4374c29fad74bf58e5ae3431dab68a3.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/e98ddd14a527471a867a55fbc3750ad6.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/5145352af5614d8bb87232713eb415eb.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/79c38b96e9884a2286847bb21d3edf79.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/60fb24edd5ad46b29b5f5a908e095f14.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/7cf48883b18b4f4794235628161f18ef.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/996338b9f59f432c84189566dc99717a.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/ca710a55d7e149a082d932ee12f7fd21.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/90640b9c0d294f31b3c76e5803c90ac3.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/c550987e37ee42259910eea294879b0f.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/e08ac65bbc3a436580485a0cf0b8cd64.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/83d8ed542e2f46ffa0e55b9badff27b4.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/d7dd0ccf38f5426eb3a313775fa05125.jpg",
+        "https://cdn.poizon.com/pro-img/origin-img/20230525/a0397110ebdc47a39bde7b98ecedcbd8.jpg"
+    ],
+    "weight": 1,
     "skus": [
         {
-            "skuId": 30288726,
-            "spuId": 30027306,
-            "propertyDesc": "36",
+            "skuId": 815401030,
+            "spuId": 51729808,
+            "propertyDesc": "Black*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 15600,
+            "delivery_info": {
+                "platform": "poizon",
+                "min_platform_delivery": 3,
+                "max_platform_delivery": 5
+            },
+            "stripped_name": "Один размер",
+            "filter_sizes": [
+                "Один размер"
+            ],
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Чёрный"
+        },
+        {
+            "skuId": 815401031,
+            "spuId": 51729808,
+            "propertyDesc": "Red*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 14500,
+            "delivery_info": {
+                "platform": "poizon",
+                "min_platform_delivery": 3,
+                "max_platform_delivery": 5
+            },
+            "stripped_name": "Один размер",
+            "filter_sizes": [
+                "Один размер"
+            ],
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Красный"
+        },
+        {
+            "skuId": 815401032,
+            "spuId": 51729808,
+            "propertyDesc": "Brown*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 14924,
+            "delivery_info": {
+                "platform": "poizon",
+                "min_platform_delivery": 3,
+                "max_platform_delivery": 5
+            },
+            "stripped_name": "Один размер",
+            "filter_sizes": [
+                "Один размер"
+            ],
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Коричневый"
+        },
+        {
+            "skuId": 815401033,
+            "spuId": 51729808,
+            "propertyDesc": "Orange*#*Basic Set (Bag and Dust Bag)",
             "zh_price": null,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "36",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "36"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "36 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Оранжевый"
         },
         {
-            "skuId": 30288727,
-            "spuId": 30027306,
-            "propertyDesc": "36⅔",
+            "skuId": 815401034,
+            "spuId": 51729808,
+            "propertyDesc": "Yellow*#*Basic Set (Bag and Dust Bag)",
             "zh_price": null,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "36.5",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "36.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "36.5 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Жёлтый"
         },
         {
-            "skuId": 30288728,
-            "spuId": 30027306,
-            "propertyDesc": "37⅓",
-            "zh_price": null,
+            "skuId": 815401035,
+            "spuId": 51729808,
+            "propertyDesc": "Green*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 16427,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "37",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "37",
-                "37.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "37 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Зелёный"
         },
         {
-            "skuId": 30288729,
-            "spuId": 30027306,
-            "propertyDesc": "38",
-            "zh_price": null,
+            "skuId": 815401036,
+            "spuId": 51729808,
+            "propertyDesc": "Sky Blue*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 17493,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "38",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "38",
-                "37.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "38 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Синий"
         },
         {
-            "skuId": 30288730,
-            "spuId": 30027306,
-            "propertyDesc": "38⅔",
-            "zh_price": 5895,
+            "skuId": 815401037,
+            "spuId": 51729808,
+            "propertyDesc": "Navy*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 15428,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "38.5",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "38.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "38.5 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Темно-синий"
         },
         {
-            "skuId": 30288731,
-            "spuId": 30027306,
-            "propertyDesc": "39⅓",
-            "zh_price": null,
+            "skuId": 815401038,
+            "spuId": 51729808,
+            "propertyDesc": "Burgundy*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 15657,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "39",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "39",
-                "39.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "39 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Бордовый"
         },
         {
-            "skuId": 30288732,
-            "spuId": 30027306,
-            "propertyDesc": "40",
-            "zh_price": 6530,
+            "skuId": 815401039,
+            "spuId": 51729808,
+            "propertyDesc": "White*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 13662,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "40",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "40",
-                "39.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "40 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Белый"
         },
         {
-            "skuId": 30288733,
-            "spuId": 30027306,
-            "propertyDesc": "40⅔",
-            "zh_price": null,
+            "skuId": 815401040,
+            "spuId": 51729808,
+            "propertyDesc": "Gray*#*Basic Set (Bag and Dust Bag)",
+            "zh_price": 16254,
             "delivery_info": {
                 "platform": "poizon",
                 "min_platform_delivery": 3,
                 "max_platform_delivery": 5
             },
-            "stripped_name": "40.5",
+            "stripped_name": "Один размер",
             "filter_sizes": [
-                "40.5"
+                "Один размер"
             ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "40.5 EU"
-        },
-        {
-            "skuId": 30288734,
-            "spuId": 30027306,
-            "propertyDesc": "41⅓",
-            "zh_price": 4974.0,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "41",
-            "filter_sizes": [
-                "41",
-                "41.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "41 EU"
-        },
-        {
-            "skuId": 30288735,
-            "spuId": 30027306,
-            "propertyDesc": "42",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "42",
-            "filter_sizes": [
-                "42",
-                "41.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "42 EU"
-        },
-        {
-            "skuId": 30288736,
-            "spuId": 30027306,
-            "propertyDesc": "42⅔",
-            "zh_price": 6979,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "42.5",
-            "filter_sizes": [
-                "42.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "42.5 EU"
-        },
-        {
-            "skuId": 30288737,
-            "spuId": 30027306,
-            "propertyDesc": "43⅓",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "43",
-            "filter_sizes": [
-                "43",
-                "43.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "43 EU"
-        },
-        {
-            "skuId": 30288738,
-            "spuId": 30027306,
-            "propertyDesc": "44",
-            "zh_price": 9970,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "44",
-            "filter_sizes": [
-                "44",
-                "43.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "44 EU"
-        },
-        {
-            "skuId": 30288739,
-            "spuId": 30027306,
-            "propertyDesc": "44⅔",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "44.5",
-            "filter_sizes": [
-                "44.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "44.5 EU"
-        },
-        {
-            "skuId": 30288740,
-            "spuId": 30027306,
-            "propertyDesc": "45⅓",
-            "zh_price": 6979,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "45",
-            "filter_sizes": [
-                "45",
-                "45.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "45 EU"
-        },
-        {
-            "skuId": 30288741,
-            "spuId": 30027306,
-            "propertyDesc": "46",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "46",
-            "filter_sizes": [
-                "46",
-                "45.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "46 EU"
-        },
-        {
-            "skuId": 30288742,
-            "spuId": 30027306,
-            "propertyDesc": "46⅔",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "46.5",
-            "filter_sizes": [
-                "46.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "46.5 EU"
-        },
-        {
-            "skuId": 30288743,
-            "spuId": 30027306,
-            "propertyDesc": "47⅓",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "47",
-            "filter_sizes": [
-                "47",
-                "47.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "47 EU"
-        },
-        {
-            "skuId": 30288744,
-            "spuId": 30027306,
-            "propertyDesc": "48",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "48",
-            "filter_sizes": [
-                "48",
-                "47.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "48 EU"
-        },
-        {
-            "skuId": 30288745,
-            "spuId": 30027306,
-            "propertyDesc": "49⅓",
-            "zh_price": null,
-            "delivery_info": {
-                "platform": "poizon",
-                "min_platform_delivery": 3,
-                "max_platform_delivery": 5
-            },
-            "stripped_name": "49",
-            "filter_sizes": [
-                "49",
-                "49.5"
-            ],
-            "filter_table_name": "Shoes_Adults",
-            "filter_table_row_name": "EU",
-            "view_name": "49 EU"
+            "filter_table_name": "",
+            "filter_table_row_name": "",
+            "view_name": "Серый"
         }
     ],
     "tables": [
         {
-            "FR": [
-                "35 ⅓",
-                "35 ⅔",
-                "36",
-                "36 ⅔",
-                "37 ⅓",
-                "38",
-                "38 ⅔",
-                "39 ⅓",
-                "40",
-                "40 ⅔",
-                "41 ⅓",
-                "42",
-                "42 ⅔",
-                "43 ⅓",
-                "44",
-                "44 ⅔",
-                "45 ⅓",
-                "46",
-                "46 ⅔",
-                "47 ⅓",
-                "48",
-                "48 ⅔",
-                "49 ⅓",
-                "50",
-                "50 ⅔",
-                "51 ⅓",
-                "52 ⅔",
-                "53 ⅓",
-                "54 ⅔",
-                "55 ⅔"
-            ],
-            "EU": [
-                "35 ⅓",
-                "35 ⅔",
-                "36",
-                "36.5",
-                "37",
-                "38",
-                "38.5",
-                "39",
-                "40",
-                "40.5",
-                "41",
-                "42",
-                "42.5",
-                "43",
-                "44",
-                "44.5",
-                "45",
-                "46",
-                "46.5",
-                "47",
-                "48",
-                "48.5",
-                "49",
-                "50",
-                "50.5",
-                "51",
-                "52.5",
-                "53",
-                "54.5",
-                "55.5"
-            ],
-            "RU": [
-                "",
-                "",
-                "35.5",
-                "36",
-                "36.5",
-                "37",
-                "37.5",
-                "38",
-                "38.5",
-                "39",
-                "40",
-                "40.5",
-                "41",
-                "42",
-                "42.5",
-                "43",
-                "44",
-                "44.5",
-                "45",
-                "46",
-                "46.5",
-                "47",
-                "48",
-                "49",
-                "49.5",
-                "50",
-                "52",
-                "53",
-                "54",
-                ""
-            ],
-            "US": [
-                "3",
-                "3.5",
-                "4",
-                "4.5",
-                "5",
-                "5.5",
-                "6",
-                "6.5",
-                "7",
-                "7.5",
-                "8",
-                "8.5",
-                "9",
-                "9.5",
-                "10",
-                "10.5",
-                "11",
-                "11.5",
-                "12",
-                "12.5",
-                "13",
-                "13.5",
-                "14",
-                "14.5",
-                "15",
-                "16",
-                "17",
-                "18",
-                "19",
-                "20"
-            ],
-            "UK": [
-                "2.5",
-                "3",
-                "3.5",
-                "4",
-                "4.5",
-                "5",
-                "5.5",
-                "6",
-                "6.5",
-                "7",
-                "7.5",
-                "8",
-                "8.5",
-                "9",
-                "9.5",
-                "10",
-                "10.5",
-                "11",
-                "11.5",
-                "12",
-                "12.5",
-                "13",
-                "13.5",
-                "14",
-                "14.5",
-                "15",
-                "16",
-                "17",
-                "18",
-                "19"
-            ],
-            "CM/JP": [
-                "21",
-                "21.5",
-                "22",
-                "22.5",
-                "23",
-                "23.5",
-                "24",
-                "24.5",
-                "25",
-                "25.5",
-                "26",
-                "26.5",
-                "27",
-                "27.5",
-                "28",
-                "28.5",
-                "29",
-                "29.5",
-                "30",
-                "30.5",
-                "31",
-                "31.5",
-                "32",
-                "32.5",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "US-Women's": [
-                "4",
-                "4.5",
-                "5",
-                "5.5",
-                "6",
-                "6.5",
-                "7",
-                "7.5",
-                "8",
-                "8.5",
-                "9",
-                "9.5",
-                "10",
-                "10.5",
-                "11",
-                "11.5",
-                "12",
-                "12.5",
-                "13",
-                "13.5",
-                "14",
-                "14.5",
-                "15",
-                "15.5",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
+            "table": [],
+            "name": "Таблица бренда",
+            "title": "Сумка через плечо Goyard",
+            "description": "Обратите внимание, таблица представлена брендом Goyard, для других брендов рекомендуем пользоваться своей размерной сеткой и быть бдительным при сравнении размеров разных брендов"
         }
     ],
-    "processed_parameters": [
-        {
-            "Основной цвет": [
-                "Чёрный"
+    "view_parameters": {
+        "parameters": {
+            "Длина плечевого ремня": [
+                "22.8 Inch"
             ],
-            "Цвет": [
-                "Чёрный"
-            ],
-            "Тип обуви": [
-                "Высокие"
-            ],
-            "Тип носка": [
-                "Закругленный"
+            "Размер": [
+                "22 x 6.5 x 13 CM"
             ],
             "Тип застежки": [
-                "Шнурки"
+                "Молния"
+            ],
+            "Материал подкладки": [
+                "Хлопок"
+            ],
+            "Материал": [
+                "Полотно"
             ]
         },
-        {
-            "materials": [],
-            "colors": [
-                "Чёрный"
-            ]
-        }
-    ]
+        "parameters_order": [
+            "Длина плечевого ремня",
+            "Размер",
+            "Тип застежки",
+            "Материал подкладки",
+            "Материал"
+        ]
+    },
+    "filter_parameters": {
+        "materials": [
+            "Ткань",
+            "Хлопок"
+        ],
+        "colors": []
+    },
+    "many_colors": true
 }
