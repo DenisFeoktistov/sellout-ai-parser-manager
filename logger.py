@@ -1,7 +1,9 @@
 import logging
+import os
 
 
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+os.makedirs('logs', exist_ok=True)
 
 
 user_update_logger = logging.getLogger('UserParse')
