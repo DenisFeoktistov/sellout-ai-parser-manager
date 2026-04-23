@@ -1,4 +1,5 @@
 import multiprocessing
+import os
 
 import aiohttp
 
@@ -26,6 +27,10 @@ class MainApp:
         self.relevance_update_worker_process.start()
 
     def start(self):
+        if os.getenv("ENABLE_RELEVANCE_UPDATE", "false").lower() not in {"1", "true", "yes", "on"}:
+            print("Relevance update scheduler is disabled")
+            return
+
         self.relevance_update_process = multiprocessing.Process(target=start_relevance_update_cycle)
         self.relevance_update_process.start()
 
