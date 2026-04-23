@@ -23,13 +23,14 @@ async def wait_until_parse_api():
 
 async def main():
     while True:
+        await wait_until_parse_api()
+
         relevance_update_logger.info("Initializing updating cycle")
 
         async with aiohttp.ClientSession(timeout=None) as session:
             async with session.get(DEWU_API_GET_NEW_PRODUCTS) as response:
                 await response.json()
 
-        await wait_until_parse_api()
         await wait_until_parse_api()
         await wait_until_parse_api()
 
