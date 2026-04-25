@@ -9,7 +9,8 @@ COPY requirements.txt .
 
 # Install the required Python packages
 RUN pip install -r requirements.txt
-RUN apt-get update && apt-get install nano
+RUN apt-get update && apt-get install -y --no-install-recommends nano \
+    && rm -rf /var/lib/apt/lists/*
 
 # Copy the entire current directory into the container
 COPY . .
