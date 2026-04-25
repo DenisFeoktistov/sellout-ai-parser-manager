@@ -15,6 +15,11 @@ main_app = MainApp()
 api_app = FastAPI()
 
 
+@api_app.get("/health")
+async def health():
+    return {"status": "ok"}
+
+
 def get_spu_id(url):
     response = requests.head(url, allow_redirects=False)
     if 'location' in response.headers:
@@ -88,4 +93,3 @@ if __name__ == "__main__":
     main_app.start()
 
     uvicorn.run(api_app, host='0.0.0.0', port=5000)
-
